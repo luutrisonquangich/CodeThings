@@ -11617,7 +11617,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sEmptyTable": "No data available in table",
+			"sEmptyTable": "Không có dữ liệu",
 	
 	
 			/**
